@@ -16,6 +16,4 @@ A arquitetura do Orion será composta pelos seguintes módulos:
 
 - **Diagrama da aplicação**:
 
-  
-  (<img width="345" height="336" alt="DIAGRAMA" src="https://github.com/user-attachments/assets/d1c984b4-e6e3-48db-a8f2-25a80a6e4639" />
-
+<img width="345" height="336" alt="DIAGRAMA" src="https://github.com/user-attachments/assets/712780c6-0c8e-4ca3-adef-4ef7c212f354" />
