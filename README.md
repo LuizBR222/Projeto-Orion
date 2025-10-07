@@ -1,37 +1,37 @@
-# 🌌 Orion – Assistente Virtual Offline com IA
+# Orion – Assistente Virtual Offline com IA
 
 > Projeto acadêmico e de desenvolvimento de um **assistente virtual LLM offline** para Android, capaz de realizar conversas naturais e responder perguntas, incluindo cálculos matemáticos, sem depender de conexão com a internet.
 
 ---
 
-## 📌 Sumário
+## Sumário
 
-- [📖 Resumo do Projeto](#-resumo-do-projeto)  
-- [🎯 Objetivos](#-objetivos)  
-- [🧠 Escopo](#-escopo)  
-- [🛠️ Metodologia](#️-metodologia)  
-- [📅 Cronograma](#-cronograma)  
-- [👥 Equipe](#-equipe)  
-- [💰 Recursos](#-recursos)  
-- [📂 Documentação](#-documentação)  
-- [⚖️ Licença](#️-licença)
+- [Resumo do Projeto](#-resumo-do-projeto)  
+- [Objetivos](#-objetivos)  
+- [Escopo](#-escopo)  
+- [Metodologia](#️-metodologia)  
+- [Cronograma](#-cronograma)  
+- [Equipe](#-equipe)  
+- [Recursos](#-recursos)  
+- [Documentação](#-documentação)  
+- [Licença](#️-licença)
 
 ---
 
-## 📖 Resumo do Projeto
+## Resumo do Projeto
 
 O **Orion** tem como objetivo desenvolver um **assistente virtual baseado em IA LLM que funcione totalmente offline**.  
 Ele será capaz de:
 
-- 💬 Realizar **conversas naturais** com o usuário;  
-- 🧮 **Responder perguntas** acadêmicas ou cotidianas, incluindo **cálculos matemáticos**;  
-- 🧠 Operar **localmente**, garantindo **privacidade**, **autonomia** e **rapidez**.
+- Realizar **conversas naturais** com o usuário;  
+- **Responder perguntas** acadêmicas ou cotidianas, incluindo **cálculos matemáticos**;  
+- Operar **localmente**, garantindo **privacidade**, **autonomia** e **rapidez**.
 
 O resultado esperado é um **aplicativo funcional para Android** (Android 14+) que possa atuar como assistente inteligente **sem depender de internet**.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 ### Objetivo Geral
 > Desenvolver o Orion, um assistente virtual LLM offline com capacidade de conversação natural e resposta a perguntas.
@@ -45,20 +45,20 @@ O resultado esperado é um **aplicativo funcional para Android** (Android 14+) q
 
 ---
 
-## 🧠 Escopo
+## Escopo
 
 ### Entregas
-- 📱 Aplicativo Android funcional com interface de chat.  
-- 🧠 Modelo LLM integrado e otimizado para execução local.  
-- 🧮 Módulo de matemática e respostas gerais.
+- Aplicativo Android funcional com interface de chat.  
+- Modelo LLM integrado e otimizado para execução local.  
+- Módulo de matemática e respostas gerais.
 
 ### Limites
-- ✅ Incluído: funcionalidade offline, conversação, respostas básicas, cálculos.  
-- ❌ Não incluído: conectividade online, serviços externos, reconhecimento de voz inicial (somente texto).
+- Incluído: funcionalidade offline, conversação, respostas básicas, cálculos.  
+- Não incluído: conectividade online, serviços externos, reconhecimento de voz inicial (somente texto).
 
 ---
 
-## 🛠️ Metodologia
+## Metodologia
 
 1. **Pesquisa e Seleção do Modelo**  
    - Escolha de LLM compatível com execução offline.
@@ -77,7 +77,7 @@ O resultado esperado é um **aplicativo funcional para Android** (Android 14+) q
 
 ---
 
-## 📅 Cronograma
+## Cronograma
 
 | Fase                        | Início      | Término     | Marco                              |
 |----------------------------|------------|------------|-------------------------------------|
@@ -89,22 +89,22 @@ O resultado esperado é um **aplicativo funcional para Android** (Android 14+) q
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 - **Luiz Felipe Pereira da Silva Guimarães**  
-  - 🧑‍💻 Desenvolvimento Android & Integração LLM  
-  - 🧪 Testes e validação de desempenho
+  - Desenvolvimento Android & Integração LLM  
+  - Testes e validação de desempenho
 
 ---
 
-## 💰 Recursos
+## Recursos
 
 ### Recursos Humanos
 - Desenvolvedor Android
 
 ### Recursos Materiais
-- 💻 Computador de desenvolvimento e testes  
-- 📱 Smartphones Android (mínimo Android 14)
+- Computador de desenvolvimento e testes  
+- Smartphones Android (mínimo Android 14)
 
 ### Recursos Financeiros (Estimativa)
 - Desenvolvimento e licenças: **R$ 2.000**  
@@ -114,7 +114,7 @@ O resultado esperado é um **aplicativo funcional para Android** (Android 14+) q
 
 ---
 
-## 📂 Documentação
+## Documentação
 
 Toda a documentação do projeto está disponível na pasta [`/docs`](./docs), incluindo:
 
@@ -125,7 +125,7 @@ Toda a documentação do projeto está disponível na pasta [`/docs`](./docs), i
 
 ---
 
-🚀 **Orion** está em desenvolvimento e representa um passo em direção a **assistentes virtuais totalmente offline**, com foco em **privacidade**, **educação** e **acessibilidade**.
+**Orion** está em desenvolvimento e representa um passo em direção a **assistentes virtuais totalmente offline**, com foco em **privacidade**, **educação** e **acessibilidade**.
 
 ---
 
