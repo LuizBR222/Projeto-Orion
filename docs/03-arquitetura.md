@@ -13,3 +13,9 @@ A arquitetura do Orion será composta pelos seguintes módulos:
 
 - **Persistência de Dados**:  
   Banco SQLite para armazenar histórico local.
+
+- **Diagrama da aplicação**:
+
+  
+  (<img width="345" height="336" alt="DIAGRAMA" src="https://github.com/user-attachments/assets/d1c984b4-e6e3-48db-a8f2-25a80a6e4639" />
+
