@@ -1,7 +1,7 @@
 # Requisitos
 
 ## Requisitos Funcionais
-- RF01 – Permitir que o usuário converse em linguagem natural com a IA.  
+- RF01 – Permitir que o usuário converse em linguagem natural com IA.  
 - RF02 – Responder perguntas com base em conhecimento geral e acadêmico.  
 - RF03 – Realizar cálculos matemáticos básicos e intermediários.  
 - RF04 – Funcionar totalmente offline.
