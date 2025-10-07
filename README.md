@@ -1,4 +1,4 @@
-# 🌌 Orion – Assistente Virtual Offline com IA
+# Orion – Assistente Virtual Offline com IA
 
 > Projeto acadêmico e de desenvolvimento de um **assistente virtual LLM offline** para Android, capaz de realizar conversas naturais e responder perguntas, incluindo cálculos matemáticos, sem depender de conexão com a internet.
 
@@ -125,13 +125,7 @@ Toda a documentação do projeto está disponível na pasta [`/docs`](./docs), i
 
 ---
 
-## ⚖️ Licença
-
-Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
----
-
-🚀 **Orion** está em desenvolvimento e representa um passo em direção a **assistentes virtuais totalmente offline**, com foco em **privacidade**, **educação** e **acessibilidade**.
+ **Orion** está em desenvolvimento e representa um passo em direção a **assistentes virtuais totalmente offline**, com foco em **privacidade**, **educação** e **acessibilidade**.
 
 ---
 
