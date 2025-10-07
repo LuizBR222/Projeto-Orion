@@ -6,4 +6,4 @@ Esta pasta contém a documentação completa do **Projeto Orion**, organizada em
 - [Requisitos](./02-requisitos.md)  
 - [Arquitetura](./03-arquitetura.md)   
 - [Tecnologias](./04-tecnologias.md)  
-- [Cronograma](./06-cronograma.md)
+- [Cronograma](./05-cronograma.md)
