@@ -19,7 +19,7 @@
 
 ## Resumo do Projeto
 
-O **Orion** tem como objetivo desenvolver um **assistente virtual baseado em IA LLM que funcione totalmente offline**.
+A **LGA Inc.** tem como objetivo desenvolver um **assistente virtual baseado em IA LLM que funcione totalmente offline**.
 Ele será capaz de:
 
 - Realizar **conversas naturais** com o usuário;
