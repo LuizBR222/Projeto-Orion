@@ -1,4 +1,4 @@
-# 🧠 Arquitetura
+# Arquitetura
 
 A arquitetura do Orion será composta pelos seguintes módulos:
 
