@@ -6,7 +6,7 @@
 
 ## Sumário
 
-- [Resumo do Projeto](#-resumo-do-projeto)  
+- [Resumo do Projeto](#-Resumo-do-Projeto)  
 - [Objetivos](#-objetivos)  
 - [Escopo](#-escopo)  
 - [Metodologia](#️-metodologia)  
@@ -17,7 +17,7 @@
 
 ---
 
-##Resumo do Projeto
+## Resumo do Projeto
 
 O **Orion** tem como objetivo desenvolver um **assistente virtual baseado em IA LLM que funcione totalmente offline**.  
 Ele será capaz de:
