@@ -14,7 +14,6 @@
 - [Equipe](#-equipe)  
 - [Recursos](#-recursos)  
 - [Documentação](#-documentação)  
-- [Licença](#️-licença)
 
 ---
 
