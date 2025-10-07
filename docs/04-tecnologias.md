@@ -1,4 +1,4 @@
-# 🧰 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - **Linguagem:** Java (Android)  
 - **IDE:** Android Studio  
