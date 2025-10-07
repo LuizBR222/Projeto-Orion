@@ -1,4 +1,4 @@
-# 🗓️ Cronograma do Projeto
+# Cronograma do Projeto
 
 | Fase                        | Início      | Término     | Marco                              |
 |----------------------------|------------|------------|-------------------------------------|
