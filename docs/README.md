@@ -1,4 +1,4 @@
-# 📚 Documentação do Projeto Orion
+# Documentação do Projeto Orion
 
 Esta pasta contém a documentação completa do **Projeto Orion**, organizada em arquivos temáticos para facilitar manutenção e leitura:
 
