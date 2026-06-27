@@ -142,7 +142,7 @@ If authentication fails or is cancelled, the app closes. On success, the user is
 ### Steps
 
 1. Clone or download the repository
-2. Add `model.bin` to `app/src/main/assets/`
+2. Add `model.bin` to `app/src/main/assets/` * [Click here to download the model from Google Drive](https://drive.google.com/file/d/1lE0LvfBxQGUIbLHSCnQJoCQ21SHE7BWM/view?usp=drive_link)
 3. Open the project in **Android Studio**
 4. Wait for Gradle sync to complete
 5. Connect a physical device (emulators don't support real biometrics or GPU inference)

@@ -142,7 +142,7 @@ Se a autenticação falhar ou for cancelada, o app é encerrado. Ao ser autentic
 ### Passos
 
 1. Clone ou baixe o repositório
-2. Adicione o `model.bin` em `app/src/main/assets/`
+2. Adicione o `model.bin` em `app/src/main/assets/` * [Clique aqui para baixar o modelo do Google Drive](https://drive.google.com/file/d/1lE0LvfBxQGUIbLHSCnQJoCQ21SHE7BWM/view?usp=drive_link)
 3. Abra o projeto no **Android Studio**
 4. Aguarde a sincronização do Gradle
 5. Conecte um dispositivo físico (emuladores não suportam biometria real nem têm GPU para inferência)
