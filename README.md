@@ -9,9 +9,9 @@ Orion is an artificial intelligence assistant that runs **100% offline** on your
 ## Screenshots
 
 > <p align="center">
-  <img src="screenshots/1.jpg" width="30%" alt="Tela Principal" />
-  <img src="screenshots/2.jpg" width="30%" alt="Segunda Tela" />
-  <img src="screenshots/3.jpg" width="30%" alt="Terceira Tela" />
+  <img src="screenshots/1.jpeg" width="30%" alt="Tela Principal" />
+  <img src="screenshots/2.jpeg" width="30%" alt="Segunda Tela" />
+  <img src="screenshots/3.jpeg" width="30%" alt="Terceira Tela" />
 </p>
 
 ---
