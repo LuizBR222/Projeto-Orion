@@ -54,7 +54,7 @@ public class ChatDbHelper extends SQLiteOpenHelper {
     // Metodo para carregar todas as mensagens
     public List<Message> getAllMessages() {
         List<Message> messageList = new ArrayList<>();
-        // Ordena por ID para garantir a ordem da conversa
+        // Por ID
         String selectQuery = "SELECT * FROM " + TABLE_MESSAGES + " ORDER BY " + COLUMN_ID + " ASC";
 
         SQLiteDatabase db = this.getWritableDatabase();
