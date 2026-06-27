@@ -137,7 +137,7 @@ If authentication fails or is cancelled, the app closes. On success, the user is
 - Physical Android device running Android 7.0+ (API 24) — **recommended** due to AI model processing demands
 - The `model.bin` file (compiled Gemma model) must be placed in `app/src/main/assets/`
 
-> ⚠️ The `model.bin` file is large (~1–4 GB depending on the variant) and is typically not versioned in the repository. Download it separately and add it to the `assets/` folder.
+> The `model.bin` file is large (~1–4 GB depending on the variant) and is typically not versioned in the repository. Download it separately and add it to the `assets/` folder.
 
 ### Steps
 
@@ -179,7 +179,7 @@ implementation(libs.constraintlayout)   // 2.2.1
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - The Gemma model consumes significant RAM and GPU resources. Devices with at least **6 GB of RAM** are recommended.
 - The first launch may be slow as `model.bin` is copied from assets to the app's internal storage.

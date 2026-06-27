@@ -1,4 +1,4 @@
-# 🔭 Orion — IA Offline para Android
+# Orion — IA Offline para Android
 
 > 🇺🇸 [English version](README.md)
 
@@ -137,7 +137,7 @@ Se a autenticação falhar ou for cancelada, o app é encerrado. Ao ser autentic
 - Dispositivo físico com Android 7.0+ (API 24) — **recomendado** por conta do processamento do modelo de IA
 - O arquivo `model.bin` (modelo Gemma compilado) deve estar em `app/src/main/assets/`
 
-> ⚠️ O modelo `model.bin` é grande (~1-4 GB dependendo da versão) e geralmente não é versionado no repositório. Faça o download separadamente e adicione à pasta `assets/`.
+> O modelo `model.bin` é grande (~1-4 GB dependendo da versão) e geralmente não é versionado no repositório. Faça o download separadamente e adicione à pasta `assets/`.
 
 ### Passos
 
